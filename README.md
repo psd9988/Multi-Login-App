@@ -1,70 +1,47 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Multi-App Login Hub
 
-## Available Scripts
+Seamlessly Access Multiple Apps with a Single Login
 
-In the project directory, you can run:
+<img src="./src/assets/readme.png" width="300" height="200">
 
-### `npm start`
+## Deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To deploy this project run
+```node
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  npm start
 
-### `npm test`
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Frontend Framework**:
+   - **React**: A popular JavaScript library for building user interfaces. It's efficient for creating interactive and responsive web applications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Backend Framework**:
+  **Node.js and Hapi Js**: A runtime environment for executing JavaScript on the server side. It's commonly used with Express.js to create RESTful APIs and handle backend logic.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Database**:
+   - **PostgreSQL**: Traditional relational databases may be necessary for certain data storage needs, especially if you have complex data relationships.
 
-### `npm run eject`
+4. **API Documentation**:
+   - **Swagger**: These tools allow you to define, document, and test your API endpoints, making it easier for other developers to integrate with your service.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. **UI Components**:
+   - **Bootstrap**: These UI component libraries provide pre-designed elements that can speed up frontend development.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+6. **Version Control**:
+    - **Git**: The industry-standard for version control, which is essential for collaborating on code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+7. **Deployment and Hosting**:
+    - **Netlify or Vercel**: Great options for hosting static sites or single-page applications.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributors
 
-## Learn More
+- Prashant Deshmukh
+- Amit Kumar
+- Puran Lohar
+- Aadarsh Kumar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
