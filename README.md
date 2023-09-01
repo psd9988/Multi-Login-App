@@ -3,7 +3,7 @@
 
 Seamlessly Access Multiple Apps with a Single Login
 
-<img src="./src/assets/readme.png" width="300" height="200">
+<img src="./src/assets/readme.png" >
 
 ## Deployment
 
